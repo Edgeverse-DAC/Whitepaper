@@ -1,6 +1,4 @@
----
-cover: .gitbook/assets/EDAC (1).png
-coverY: 0
+
 ---
 
 # Abstract
