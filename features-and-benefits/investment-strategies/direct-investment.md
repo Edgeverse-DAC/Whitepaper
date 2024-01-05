@@ -1,0 +1,3 @@
+# Direct Investment
+
+One of our primary investment methods is direct investment. We offer opportunities for users to directly invest in projects that have a rare combination of low risk and high quality. However, there are certain conditions that need to be considered. For instance, we prioritize Edgeware exclusive projects as they enhance the utility of the EDG token, providing additional value and benefits. Additionally, both new and existing businesses can exchange equity or convertible notes for funding while maintaining the essence of their ventures. We also look out for revolutionary advancements in Web3 and groundbreaking concepts that have the potential to redefine entire industries.
