@@ -16,17 +16,20 @@
 ## Overview of Edgeverse DAO
 
 * [Platform](overview-of-edgeverse-dao/platform.md)
+* [DAO Plugins](overview-of-edgeverse-dao/dao-plugins/README.md)
+  * [On-chain Reputation](overview-of-edgeverse-dao/dao-plugins/on-chain-reputation.md)
+  * [Multichain-Governance ](overview-of-edgeverse-dao/dao-plugins/multichain-governance.md)
 * [Governance Mechanism](overview-of-edgeverse-dao/governance-mechanism.md)
 * [Token Economy](overview-of-edgeverse-dao/token-economy.md)
 
 ## Features and Benefits
 
-* [Multichain Treasury](features-and-benefits/multichain-treasury.md)
 * [Decentralized Decision-Making](features-and-benefits/decentralized-decision-making.md)
 * [Legal Entity in the Marshal Islands (MiDAO)](features-and-benefits/legal-entity-in-the-marshal-islands-midao.md)
 * [Investment Strategies](features-and-benefits/investment-strategies/README.md)
   * [Direct Investment](features-and-benefits/investment-strategies/direct-investment.md)
   * [Staked Coin Output Model](features-and-benefits/investment-strategies/staked-coin-output-model.md)
+* [Multichain Treasury](features-and-benefits/multichain-treasury.md)
 
 ## Operations and Functionality
 
@@ -38,7 +41,7 @@
 
 ## Use Cases and Applications
 
-* [Funding New Projects in the Edgeware Ecosystem](use-cases-and-applications/funding-new-projects-in-the-edgeware-ecosystem.md)
+* [Edgeware Ecosystem](use-cases-and-applications/edgeware-ecosystem.md)
 * [Supporting Innovation and Research Initiatives](use-cases-and-applications/supporting-innovation-and-research-initiatives.md)
 * [Earn lifelong benefits by staking EDGV tokens.](use-cases-and-applications/earn-lifelong-benefits-by-staking-edgv-tokens..md)
 
@@ -50,7 +53,8 @@
 
 ## Tokenomics
 
-* [Token Distribution](tokenomics/token-distribution.md)
+* [Token Information](tokenomics/token-information.md)
+* [Token Allocation](tokenomics/token-allocation.md)
 * [Fund Allocation](tokenomics/fund-allocation.md)
 * [Sale Details](tokenomics/sale-details.md)
 
