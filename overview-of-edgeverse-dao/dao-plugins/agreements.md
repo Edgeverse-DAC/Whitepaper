@@ -1,0 +1,3 @@
+# Agreements
+
+The Onchain Agreements plugin for Edgeverse DAO is a powerful tool that enables seamless and secure execution of agreements within a decentralized autonomous organization. With this plugin, members can create, negotiate, and finalize contracts on-chain, eliminating the need for traditional intermediaries. The plugin ensures transparency and immutability by leveraging blockchain technology, enabling efficient dispute resolution and greater trust among participants. By streamlining the agreement process, the Onchain Agreements plugin enhances collaboration and efficiency within the Edgeverse DAO ecosystem.

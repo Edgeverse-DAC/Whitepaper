@@ -20,6 +20,8 @@
   * [On-chain Reputation](overview-of-edgeverse-dao/dao-plugins/on-chain-reputation.md)
   * [Multichain-Governance ](overview-of-edgeverse-dao/dao-plugins/multichain-governance.md)
   * [Payroll Management](overview-of-edgeverse-dao/dao-plugins/payroll-management.md)
+  * [Court](overview-of-edgeverse-dao/dao-plugins/court.md)
+  * [Agreements](overview-of-edgeverse-dao/dao-plugins/agreements.md)
 * [Governance Mechanism](overview-of-edgeverse-dao/governance-mechanism.md)
 * [Token Economy](overview-of-edgeverse-dao/token-economy.md)
 
@@ -63,3 +65,9 @@
 
 * [Risks and Challenges](others/risks-and-challenges.md)
 * [Conclusion](others/conclusion.md)
+
+***
+
+* [Website](https://edgeverse.space)
+* [X.com](https://x.com/edgeversedao)
+* [Telegram](https://t.me/edgeversedao)
