@@ -19,6 +19,7 @@
 * [DAO Plugins](overview-of-edgeverse-dao/dao-plugins/README.md)
   * [On-chain Reputation](overview-of-edgeverse-dao/dao-plugins/on-chain-reputation.md)
   * [Multichain-Governance ](overview-of-edgeverse-dao/dao-plugins/multichain-governance.md)
+  * [Payroll Management](overview-of-edgeverse-dao/dao-plugins/payroll-management.md)
 * [Governance Mechanism](overview-of-edgeverse-dao/governance-mechanism.md)
 * [Token Economy](overview-of-edgeverse-dao/token-economy.md)
 
